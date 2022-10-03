@@ -17,4 +17,4 @@ You are required to create three visualizations. Some questions you may attempt 
 3. You can also come up with your own question!
 
 ### Download Database
-(Flight-Delays)[https://video.udacity-data.com/topher/2017/December/5a3b1fad_flight-delays/flight-delays.zip]
+[Flight-Delays](https://video.udacity-data.com/topher/2017/December/5a3b1fad_flight-delays/flight-delays.zip)
